@@ -1,0 +1,251 @@
+Car_ID,Brand,Year,Fuel_Type,Transmission,Kms_Driven,Selling_Price_Lakhs,Location,Status
+CAR_1000,Hyundai,2024,Petrol,Manual,76358,23.74,Bangalore,Sold
+CAR_1001,Kia,2022,Diesel,Manual,27327,23.12,Mumbai,Available
+CAR_1002,Mahindra,2022,Diesel,Manual,57057,18.93,Pune,Sold
+CAR_1003,Tata Motors,2024,Petrol,Manual,16150,8.8,Delhi,Sold
+CAR_1004,Maruti Suzuki,2018,Petrol,Manual,14425,16.2,Pune,Available
+CAR_1005,Maruti Suzuki,2020,Petrol,Automatic,26032,18.13,Bangalore,Sold
+CAR_1006,Maruti Suzuki,2019,Petrol,Manual,12198,16.36,Mumbai,Sold
+CAR_1007,Toyota,2018,Petrol,Manual,70500,9.88,Hyderabad,Sold
+CAR_1008,Tata Motors,2019,Petrol,Manual,63394,16.12,Mumbai,Sold
+CAR_1009,Mahindra,2024,Petrol,Manual,30079,15.53,Bangalore,Sold
+CAR_1010,Maruti Suzuki,2023,Petrol,Manual,46220,27.91,Mumbai,Sold
+CAR_1011,Kia,2019,Electric,Automatic,51874,25.49,Mumbai,Sold
+CAR_1012,Toyota,2020,CNG,Manual,23859,14.85,Bangalore,Sold
+CAR_1013,Maruti Suzuki,2023,Petrol,Manual,60460,18.76,Mumbai,Sold
+CAR_1014,Maruti Suzuki,2019,Electric,Manual,41419,21.82,Delhi,Sold
+CAR_1015,Maruti Suzuki,2024,Diesel,Manual,18705,4.35,Delhi,Sold
+CAR_1016,Hyundai,2023,Petrol,Automatic,52880,25.43,Mumbai,Available
+CAR_1017,Tata Motors,2024,Petrol,Manual,33236,24.57,Hyderabad,Sold
+CAR_1018,Hyundai,2019,Petrol,Manual,25358,14.71,Bangalore,Sold
+CAR_1019,Hyundai,2024,Petrol,Manual,86918,13.08,Delhi,Sold
+CAR_1020,Tata Motors,2020,Diesel,Manual,24596,10.19,Hyderabad,Sold
+CAR_1021,Maruti Suzuki,2019,Diesel,Automatic,43572,15.18,Mumbai,Sold
+CAR_1022,Hyundai,2019,Petrol,Manual,88757,4.59,Hyderabad,Available
+CAR_1023,Hyundai,2019,Electric,Automatic,11279,24.38,Pune,Sold
+CAR_1024,Tata Motors,2018,Diesel,Manual,73197,4.37,Delhi,Available
+CAR_1025,Toyota,2018,Petrol,Automatic,72516,11.56,Mumbai,Sold
+CAR_1026,Maruti Suzuki,2018,Electric,Manual,17083,26.32,Bangalore,Sold
+CAR_1027,Tata Motors,2020,Electric,Manual,27771,21.51,Mumbai,Sold
+CAR_1028,Tata Motors,2023,Electric,Manual,39975,10.39,Bangalore,Sold
+CAR_1029,Maruti Suzuki,2024,Petrol,Automatic,55648,9.69,Mumbai,Sold
+CAR_1030,Tata Motors,2022,Diesel,Automatic,58285,3.62,Hyderabad,Available
+CAR_1031,Maruti Suzuki,2019,Petrol,Manual,29063,20.55,Hyderabad,Sold
+CAR_1032,Maruti Suzuki,2024,Diesel,Automatic,77642,4.7,Hyderabad,Sold
+CAR_1033,Honda,2019,Electric,Manual,47599,16.55,Pune,Sold
+CAR_1034,Kia,2020,Diesel,Automatic,61920,27.07,Bangalore,Sold
+CAR_1035,Toyota,2019,CNG,Manual,38529,6.18,Hyderabad,Sold
+CAR_1036,Hyundai,2018,CNG,Automatic,45954,25.41,Pune,Sold
+CAR_1037,Maruti Suzuki,2022,CNG,Automatic,37856,27.79,Bangalore,Sold
+CAR_1038,Mahindra,2021,Petrol,Automatic,12573,5.01,Mumbai,Sold
+CAR_1039,Hyundai,2019,Petrol,Manual,88344,25.13,Pune,Sold
+CAR_1040,Maruti Suzuki,2024,Petrol,Manual,45367,16.14,Delhi,Sold
+CAR_1041,Tata Motors,2018,CNG,Automatic,70774,25.71,Pune,Sold
+CAR_1042,Maruti Suzuki,2021,Petrol,Manual,33752,17.5,Pune,Sold
+CAR_1043,Honda,2022,Petrol,Automatic,65029,19.72,Bangalore,Sold
+CAR_1044,Hyundai,2021,Petrol,Automatic,27685,16.82,Mumbai,Sold
+CAR_1045,Mahindra,2018,Diesel,Manual,61693,24.68,Delhi,Sold
+CAR_1046,Hyundai,2023,CNG,Automatic,65961,21.48,Hyderabad,Sold
+CAR_1047,Tata Motors,2023,CNG,Manual,86908,16.27,Hyderabad,Sold
+CAR_1048,Tata Motors,2021,Petrol,Automatic,84532,24.77,Pune,Sold
+CAR_1049,Maruti Suzuki,2020,CNG,Automatic,66133,9.51,Bangalore,Sold
+CAR_1050,Kia,2024,Diesel,Manual,71268,7.35,Bangalore,Available
+CAR_1051,Mahindra,2024,Petrol,Manual,48243,7.43,Hyderabad,Sold
+CAR_1052,Honda,2021,Diesel,Automatic,67384,11.68,Delhi,Sold
+CAR_1053,Honda,2019,Petrol,Manual,41653,9.35,Mumbai,Available
+CAR_1054,Tata Motors,2019,Petrol,Manual,36657,26.29,Delhi,Sold
+CAR_1055,Honda,2024,Diesel,Manual,49952,6.09,Mumbai,Sold
+CAR_1056,Maruti Suzuki,2024,Petrol,Manual,32180,20.63,Hyderabad,Sold
+CAR_1057,Maruti Suzuki,2023,Petrol,Manual,88411,8.14,Mumbai,Sold
+CAR_1058,Maruti Suzuki,2020,Petrol,Manual,11622,25.1,Bangalore,Sold
+CAR_1059,Hyundai,2018,Petrol,Manual,58756,27.05,Pune,Sold
+CAR_1060,Hyundai,2019,Petrol,Manual,50809,14.9,Pune,Sold
+CAR_1061,Hyundai,2024,Diesel,Manual,26725,25.04,Hyderabad,Sold
+CAR_1062,Toyota,2023,Diesel,Manual,71396,3.63,Bangalore,Sold
+CAR_1063,Hyundai,2022,Diesel,Manual,61226,23.59,Delhi,Available
+CAR_1064,Hyundai,2023,CNG,Manual,39402,9.1,Bangalore,Sold
+CAR_1065,Tata Motors,2019,Diesel,Manual,14263,25.76,Pune,Sold
+CAR_1066,Maruti Suzuki,2019,Diesel,Manual,56828,3.53,Pune,Sold
+CAR_1067,Toyota,2023,Petrol,Automatic,57924,17.13,Bangalore,Sold
+CAR_1068,Maruti Suzuki,2018,Petrol,Manual,84182,22.04,Bangalore,Sold
+CAR_1069,Kia,2021,Petrol,Automatic,69052,9.84,Pune,Sold
+CAR_1070,Mahindra,2019,Petrol,Automatic,21664,8.23,Delhi,Sold
+CAR_1071,Maruti Suzuki,2023,Petrol,Manual,45737,5.56,Hyderabad,Sold
+CAR_1072,Maruti Suzuki,2024,Petrol,Automatic,39373,11.5,Hyderabad,Sold
+CAR_1073,Toyota,2023,CNG,Automatic,46397,17.22,Bangalore,Sold
+CAR_1074,Mahindra,2020,Electric,Manual,48709,6.34,Hyderabad,Sold
+CAR_1075,Mahindra,2021,Diesel,Manual,71120,12.73,Pune,Sold
+CAR_1076,Mahindra,2022,Petrol,Automatic,29250,3.72,Pune,Available
+CAR_1077,Maruti Suzuki,2018,Petrol,Automatic,31172,23.56,Bangalore,Sold
+CAR_1078,Hyundai,2022,Electric,Manual,21555,6.65,Bangalore,Sold
+CAR_1079,Maruti Suzuki,2021,CNG,Automatic,88617,10.44,Bangalore,Sold
+CAR_1080,Toyota,2021,Petrol,Automatic,63276,3.95,Delhi,Sold
+CAR_1081,Tata Motors,2021,Diesel,Automatic,67492,14.09,Hyderabad,Available
+CAR_1082,Hyundai,2022,Petrol,Automatic,63002,24.08,Bangalore,Sold
+CAR_1083,Maruti Suzuki,2024,Petrol,Automatic,82355,13.11,Mumbai,Sold
+CAR_1084,Hyundai,2021,Petrol,Manual,34762,7.9,Mumbai,Sold
+CAR_1085,Hyundai,2023,Petrol,Manual,21046,21.97,Pune,Sold
+CAR_1086,Mahindra,2022,Electric,Manual,38769,22.83,Hyderabad,Sold
+CAR_1087,Mahindra,2021,Diesel,Automatic,63302,7.76,Bangalore,Available
+CAR_1088,Honda,2023,Petrol,Manual,33150,22.39,Mumbai,Sold
+CAR_1089,Tata Motors,2024,Diesel,Manual,78247,26.71,Hyderabad,Sold
+CAR_1090,Maruti Suzuki,2020,CNG,Manual,14853,7.58,Pune,Available
+CAR_1091,Mahindra,2024,Electric,Manual,31792,22.39,Delhi,Sold
+CAR_1092,Mahindra,2021,Petrol,Automatic,69129,20.86,Hyderabad,Sold
+CAR_1093,Tata Motors,2022,Petrol,Automatic,84478,15.1,Hyderabad,Sold
+CAR_1094,Mahindra,2019,Petrol,Manual,77298,4.92,Delhi,Available
+CAR_1095,Tata Motors,2021,Petrol,Manual,41987,5.33,Hyderabad,Sold
+CAR_1096,Tata Motors,2019,Petrol,Manual,25850,24.38,Pune,Sold
+CAR_1097,Hyundai,2023,Diesel,Manual,22112,27.76,Pune,Sold
+CAR_1098,Maruti Suzuki,2020,Petrol,Manual,34058,20.06,Delhi,Sold
+CAR_1099,Maruti Suzuki,2018,Petrol,Manual,55420,14.43,Bangalore,Sold
+CAR_1100,Maruti Suzuki,2024,Petrol,Manual,48890,19.37,Mumbai,Sold
+CAR_1101,Mahindra,2020,Petrol,Manual,76017,18.06,Bangalore,Sold
+CAR_1102,Hyundai,2021,Petrol,Manual,57304,12.9,Hyderabad,Sold
+CAR_1103,Tata Motors,2019,Petrol,Manual,42921,5.11,Mumbai,Available
+CAR_1104,Honda,2024,Petrol,Manual,11524,23.63,Delhi,Sold
+CAR_1105,Maruti Suzuki,2019,Petrol,Manual,25048,12.61,Delhi,Sold
+CAR_1106,Hyundai,2022,Petrol,Automatic,45111,23.56,Mumbai,Sold
+CAR_1107,Mahindra,2019,Diesel,Manual,47904,9.69,Pune,Sold
+CAR_1108,Maruti Suzuki,2022,Petrol,Manual,64912,3.53,Mumbai,Sold
+CAR_1109,Maruti Suzuki,2023,Petrol,Automatic,44008,7.39,Hyderabad,Sold
+CAR_1110,Hyundai,2024,Petrol,Manual,10060,14.98,Pune,Sold
+CAR_1111,Maruti Suzuki,2024,Electric,Automatic,84666,26.64,Delhi,Sold
+CAR_1112,Honda,2018,Petrol,Manual,65337,6,Mumbai,Sold
+CAR_1113,Toyota,2021,Diesel,Automatic,23350,24.43,Bangalore,Sold
+CAR_1114,Mahindra,2022,CNG,Automatic,34354,16.41,Bangalore,Sold
+CAR_1115,Toyota,2018,Petrol,Automatic,55186,23.74,Hyderabad,Available
+CAR_1116,Toyota,2019,CNG,Automatic,38145,10.81,Bangalore,Sold
+CAR_1117,Maruti Suzuki,2019,Diesel,Manual,44020,24.08,Mumbai,Available
+CAR_1118,Honda,2018,Petrol,Manual,85186,22.43,Mumbai,Available
+CAR_1119,Tata Motors,2024,Petrol,Automatic,30581,9.14,Bangalore,Sold
+CAR_1120,Toyota,2019,Diesel,Manual,33051,6.72,Mumbai,Sold
+CAR_1121,Honda,2023,Petrol,Automatic,61474,24.77,Hyderabad,Sold
+CAR_1122,Hyundai,2023,Electric,Manual,79626,27.1,Pune,Sold
+CAR_1123,Maruti Suzuki,2018,Petrol,Manual,16960,4.27,Hyderabad,Sold
+CAR_1124,Maruti Suzuki,2022,Diesel,Manual,45772,21.42,Hyderabad,Sold
+CAR_1125,Hyundai,2022,Petrol,Manual,31520,25.78,Mumbai,Sold
+CAR_1126,Toyota,2018,CNG,Manual,59481,24.51,Pune,Sold
+CAR_1127,Toyota,2022,Diesel,Manual,46408,27.13,Mumbai,Sold
+CAR_1128,Maruti Suzuki,2024,Petrol,Manual,67134,22.12,Delhi,Sold
+CAR_1129,Tata Motors,2024,Petrol,Manual,30491,14.34,Mumbai,Sold
+CAR_1130,Hyundai,2022,Petrol,Manual,11341,11.14,Mumbai,Sold
+CAR_1131,Maruti Suzuki,2023,Petrol,Automatic,54623,11.36,Mumbai,Sold
+CAR_1132,Maruti Suzuki,2022,Petrol,Manual,10338,21.25,Pune,Sold
+CAR_1133,Hyundai,2024,Diesel,Manual,81431,21.77,Mumbai,Available
+CAR_1134,Honda,2020,Petrol,Manual,22254,8.41,Pune,Sold
+CAR_1135,Hyundai,2021,Diesel,Automatic,61860,24.77,Bangalore,Sold
+CAR_1136,Tata Motors,2019,CNG,Manual,21344,21.02,Delhi,Sold
+CAR_1137,Mahindra,2020,Diesel,Automatic,11750,17.29,Pune,Sold
+CAR_1138,Hyundai,2022,Diesel,Automatic,64756,15.05,Bangalore,Available
+CAR_1139,Kia,2023,Diesel,Manual,77957,16.81,Pune,Sold
+CAR_1140,Kia,2018,Petrol,Manual,68053,7.4,Pune,Available
+CAR_1141,Hyundai,2022,Petrol,Manual,80855,8.49,Delhi,Sold
+CAR_1142,Tata Motors,2023,Petrol,Manual,25896,5.73,Hyderabad,Sold
+CAR_1143,Hyundai,2021,Petrol,Manual,65761,7.26,Hyderabad,Sold
+CAR_1144,Hyundai,2022,Petrol,Automatic,72552,14.62,Pune,Sold
+CAR_1145,Maruti Suzuki,2024,Petrol,Manual,87454,16.49,Mumbai,Sold
+CAR_1146,Tata Motors,2018,CNG,Manual,37935,3.94,Bangalore,Available
+CAR_1147,Tata Motors,2023,Diesel,Manual,47641,23.02,Mumbai,Available
+CAR_1148,Maruti Suzuki,2023,Petrol,Automatic,39711,10.71,Mumbai,Sold
+CAR_1149,Hyundai,2023,Petrol,Manual,80342,25.84,Pune,Available
+CAR_1150,Honda,2021,Petrol,Manual,22182,27.2,Pune,Available
+CAR_1151,Maruti Suzuki,2022,Petrol,Automatic,66276,8.04,Pune,Sold
+CAR_1152,Maruti Suzuki,2021,Petrol,Automatic,29541,14.82,Pune,Sold
+CAR_1153,Tata Motors,2019,CNG,Manual,54813,3.53,Hyderabad,Sold
+CAR_1154,Kia,2019,Petrol,Manual,47198,18.16,Pune,Sold
+CAR_1155,Maruti Suzuki,2022,CNG,Automatic,18820,18.38,Hyderabad,Sold
+CAR_1156,Mahindra,2024,Electric,Manual,34070,9.56,Hyderabad,Sold
+CAR_1157,Mahindra,2021,Petrol,Manual,79768,17.18,Pune,Sold
+CAR_1158,Maruti Suzuki,2018,Diesel,Manual,21122,9.03,Delhi,Sold
+CAR_1159,Mahindra,2023,Diesel,Manual,83543,7.44,Bangalore,Sold
+CAR_1160,Hyundai,2023,Petrol,Automatic,51786,19.46,Mumbai,Available
+CAR_1161,Mahindra,2022,Petrol,Automatic,16737,11.49,Hyderabad,Available
+CAR_1162,Mahindra,2024,Diesel,Manual,46062,17.96,Bangalore,Sold
+CAR_1163,Tata Motors,2019,Diesel,Manual,64237,14.11,Delhi,Available
+CAR_1164,Maruti Suzuki,2019,CNG,Manual,61571,27.62,Mumbai,Sold
+CAR_1165,Toyota,2023,CNG,Manual,35510,7.16,Mumbai,Sold
+CAR_1166,Hyundai,2022,Diesel,Automatic,29426,14.88,Hyderabad,Sold
+CAR_1167,Maruti Suzuki,2021,Electric,Manual,47265,20.17,Pune,Sold
+CAR_1168,Maruti Suzuki,2019,Diesel,Manual,27850,13.19,Delhi,Sold
+CAR_1169,Tata Motors,2021,Diesel,Manual,76150,27.38,Hyderabad,Sold
+CAR_1170,Mahindra,2024,Diesel,Manual,84910,21.19,Delhi,Sold
+CAR_1171,Maruti Suzuki,2019,Petrol,Manual,62375,19.6,Pune,Sold
+CAR_1172,Tata Motors,2019,Diesel,Automatic,45435,22.05,Pune,Sold
+CAR_1173,Maruti Suzuki,2020,Petrol,Manual,67132,26.84,Hyderabad,Sold
+CAR_1174,Mahindra,2019,Petrol,Automatic,88945,25.74,Pune,Sold
+CAR_1175,Maruti Suzuki,2018,CNG,Manual,12983,21.24,Bangalore,Sold
+CAR_1176,Mahindra,2022,Petrol,Manual,30662,21.85,Mumbai,Sold
+CAR_1177,Hyundai,2022,Petrol,Manual,33510,7.08,Hyderabad,Sold
+CAR_1178,Honda,2021,Diesel,Automatic,88187,6.02,Delhi,Sold
+CAR_1179,Maruti Suzuki,2024,Diesel,Automatic,50998,17.49,Bangalore,Sold
+CAR_1180,Hyundai,2019,Petrol,Manual,66846,3.95,Hyderabad,Sold
+CAR_1181,Maruti Suzuki,2018,CNG,Manual,16640,15.32,Pune,Sold
+CAR_1182,Honda,2021,Diesel,Automatic,54547,8.65,Pune,Sold
+CAR_1183,Toyota,2020,Petrol,Manual,64620,11.98,Pune,Sold
+CAR_1184,Hyundai,2021,Petrol,Manual,25317,22.51,Pune,Sold
+CAR_1185,Mahindra,2021,Diesel,Automatic,17564,26.56,Delhi,Sold
+CAR_1186,Toyota,2019,Petrol,Manual,37345,5.27,Bangalore,Sold
+CAR_1187,Tata Motors,2020,Petrol,Manual,89273,16.59,Mumbai,Sold
+CAR_1188,Tata Motors,2021,Diesel,Manual,84859,25.12,Delhi,Sold
+CAR_1189,Maruti Suzuki,2018,Petrol,Manual,84038,5.52,Delhi,Sold
+CAR_1190,Maruti Suzuki,2018,Petrol,Manual,62393,23.7,Mumbai,Available
+CAR_1191,Honda,2022,Petrol,Automatic,76081,12.27,Mumbai,Sold
+CAR_1192,Honda,2020,Diesel,Manual,39430,11.39,Pune,Sold
+CAR_1193,Mahindra,2020,Petrol,Manual,85532,27.45,Delhi,Sold
+CAR_1194,Hyundai,2022,Diesel,Manual,37788,8.42,Hyderabad,Sold
+CAR_1195,Hyundai,2021,Petrol,Manual,58543,20.48,Mumbai,Sold
+CAR_1196,Mahindra,2020,Diesel,Automatic,23919,23.63,Mumbai,Sold
+CAR_1197,Honda,2018,Petrol,Manual,79346,4.51,Bangalore,Sold
+CAR_1198,Honda,2018,CNG,Manual,49974,19.92,Hyderabad,Sold
+CAR_1199,Mahindra,2019,Petrol,Automatic,26371,26.81,Hyderabad,Sold
+CAR_1200,Mahindra,2020,Electric,Manual,55084,6.54,Mumbai,Available
+CAR_1201,Maruti Suzuki,2021,Diesel,Manual,39629,25.46,Pune,Sold
+CAR_1202,Maruti Suzuki,2022,Petrol,Manual,61184,18.07,Bangalore,Sold
+CAR_1203,Honda,2022,CNG,Manual,71916,18.61,Hyderabad,Sold
+CAR_1204,Tata Motors,2021,Petrol,Manual,83972,18.52,Mumbai,Sold
+CAR_1205,Maruti Suzuki,2024,Petrol,Manual,72187,10.82,Hyderabad,Sold
+CAR_1206,Maruti Suzuki,2023,Petrol,Automatic,22984,26.41,Bangalore,Sold
+CAR_1207,Mahindra,2019,Petrol,Manual,43039,26.71,Bangalore,Sold
+CAR_1208,Maruti Suzuki,2022,Petrol,Manual,68606,18.82,Delhi,Sold
+CAR_1209,Maruti Suzuki,2020,Petrol,Manual,20616,22.69,Mumbai,Sold
+CAR_1210,Tata Motors,2019,CNG,Manual,60072,18.5,Bangalore,Available
+CAR_1211,Mahindra,2020,Petrol,Automatic,34574,15.37,Delhi,Sold
+CAR_1212,Mahindra,2024,Petrol,Manual,13430,19.69,Delhi,Sold
+CAR_1213,Maruti Suzuki,2018,Petrol,Manual,22676,17.05,Hyderabad,Sold
+CAR_1214,Mahindra,2019,Petrol,Automatic,20816,18.14,Hyderabad,Sold
+CAR_1215,Maruti Suzuki,2022,Petrol,Manual,42733,22.7,Delhi,Sold
+CAR_1216,Hyundai,2019,Diesel,Manual,12050,15.28,Hyderabad,Sold
+CAR_1217,Mahindra,2019,Petrol,Manual,43933,4.5,Bangalore,Sold
+CAR_1218,Mahindra,2019,Petrol,Manual,34951,7.52,Pune,Sold
+CAR_1219,Toyota,2023,Petrol,Automatic,42413,14.25,Bangalore,Sold
+CAR_1220,Mahindra,2019,Petrol,Manual,44801,21.26,Delhi,Sold
+CAR_1221,Tata Motors,2020,CNG,Manual,65619,18.04,Delhi,Sold
+CAR_1222,Maruti Suzuki,2018,Petrol,Manual,42913,19.43,Bangalore,Available
+CAR_1223,Hyundai,2024,Diesel,Automatic,50600,15.24,Hyderabad,Sold
+CAR_1224,Hyundai,2021,Electric,Manual,67775,18.59,Hyderabad,Sold
+CAR_1225,Maruti Suzuki,2019,Petrol,Automatic,45400,11.56,Delhi,Available
+CAR_1226,Kia,2022,Electric,Manual,14494,15.02,Mumbai,Sold
+CAR_1227,Hyundai,2019,Petrol,Automatic,84691,21.73,Hyderabad,Available
+CAR_1228,Honda,2022,Diesel,Automatic,53001,24.86,Bangalore,Sold
+CAR_1229,Mahindra,2020,Petrol,Automatic,77364,14.12,Hyderabad,Available
+CAR_1230,Toyota,2022,Diesel,Automatic,55028,4.57,Bangalore,Sold
+CAR_1231,Tata Motors,2021,Petrol,Manual,47573,7.46,Delhi,Sold
+CAR_1232,Tata Motors,2018,Petrol,Manual,10806,4.01,Hyderabad,Sold
+CAR_1233,Tata Motors,2022,Petrol,Manual,66638,19.5,Bangalore,Available
+CAR_1234,Maruti Suzuki,2022,Diesel,Manual,39757,11.64,Delhi,Available
+CAR_1235,Mahindra,2018,CNG,Manual,44636,16.79,Mumbai,Sold
+CAR_1236,Hyundai,2021,Diesel,Manual,58280,15.59,Bangalore,Sold
+CAR_1237,Maruti Suzuki,2019,Petrol,Manual,34262,5.5,Mumbai,Available
+CAR_1238,Mahindra,2022,CNG,Manual,72211,13.38,Mumbai,Sold
+CAR_1239,Maruti Suzuki,2018,Petrol,Automatic,64842,8.9,Pune,Sold
+CAR_1240,Honda,2020,Petrol,Manual,66979,13.75,Hyderabad,Available
+CAR_1241,Kia,2018,Petrol,Automatic,48197,8.49,Bangalore,Sold
+CAR_1242,Honda,2020,Diesel,Automatic,51844,24.09,Mumbai,Sold
+CAR_1243,Hyundai,2021,Petrol,Automatic,74754,7.77,Pune,Sold
+CAR_1244,Maruti Suzuki,2019,Diesel,Manual,44157,27.04,Delhi,Sold
+CAR_1245,Honda,2018,CNG,Automatic,87129,13.69,Bangalore,Available
+CAR_1246,Hyundai,2024,Petrol,Automatic,50042,24.23,Mumbai,Sold
+CAR_1247,Kia,2024,Petrol,Automatic,71665,18.9,Hyderabad,Available
+CAR_1248,Kia,2023,Petrol,Manual,37376,21.52,Pune,Sold
+CAR_1249,Toyota,2022,Petrol,Manual,65554,22.31,Mumbai,Available
